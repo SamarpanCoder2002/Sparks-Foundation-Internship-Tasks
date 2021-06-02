@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:social_media_integration/Services/facebook_auth.dart';
 import 'package:social_media_integration/Services/google_auth.dart';
-import 'package:social_media_integration/landing_page.dart';
+import 'package:social_media_integration/screens/landing_page.dart';
 
 class DisplayUserData extends StatefulWidget {
   /// Display Page Take essential Data about user after Google/Facebook Sign In
