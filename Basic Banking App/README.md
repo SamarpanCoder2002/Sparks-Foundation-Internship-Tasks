@@ -1,4 +1,4 @@
-# basic_banking_app
+# Basic Banking App
 
 A new Flutter application.
 
